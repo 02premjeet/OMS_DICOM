@@ -4,6 +4,7 @@ Digital Imaging and Communications in Medicine (DICOM).
 ## About
 
 ## Team 
+- Premjeet 
 
 ## Technologies
 - **Programming language:** Java for backend.
