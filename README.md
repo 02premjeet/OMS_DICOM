@@ -16,7 +16,7 @@ Digital Imaging and Communications in Medicine (DICOM).
 
 - **Web technologies:** HTML, CSS, and JavaScript for the user interface, and Spring Framework, a Java-based framework for web development.
 
-- **Cloud technologies:** Amazon Web Services (AWS) or Microsoft Azure for cloud hosting and deployment.
+- **Cloud technologies:** Amazon Web Services (AWS) for cloud hosting and deployment.
 
 
 ## Flow Diagram of Dicom 
